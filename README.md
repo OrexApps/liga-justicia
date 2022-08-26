@@ -11,3 +11,5 @@ Este es un mensaje editado desde el browser
 
 ### Estos cambios son nuevos desde github
 Estos cambios son nuevos desde mi repositorio local
+
+Siendo el resultado la unificación de ambos cambios y validando cuales son los que si aplican y los que no
